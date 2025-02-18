@@ -1,0 +1,150 @@
+body {
+    /* background-color: rgb(155, 13, 143); */
+    background-image: url("./assets/waves.jpg") ;
+    background-size: cover ;
+}
+
+
+header > h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(57, 204, 197);
+    text-align: center;
+    border: solid;
+    font-style: italic;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    /* text-shadow: 2px 2px 10px rgb(57, 204, 197); */
+}
+
+
+img {
+    height: 150px;
+    margin-left: 100px;
+    /* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);   */
+    padding-inline: 5px;
+    border-radius: 10px;
+}
+
+
+.PantryItems {
+    background-color: rgb(9, 224, 142);
+    color: rgb(112, 80, 255);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: solid 5px white;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    margin-left: 50px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 30px rgb(92, 9, 218);
+}
+
+
+.canned {
+    display: inline-block;
+    background: rgba(11, 58, 121, .6);
+    padding: 40px;
+    border-radius: 10px;
+    border: solid 2px rgb(88, 88, 8);
+    text-align: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(238, 30, 203);
+    text-shadow: 2px 2px 20px black;
+}
+
+
+.dry {
+    display: inline-block;
+    /* background-color: rgb(11, 58, 121); */
+
+    /* ^ solid color */
+    background: rgba(11, 58, 121, .6);
+    margin-left: 50px;
+    width: 140px;
+    padding-right: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    border: solid 2px rgb(88, 88, 8);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    color: rgb(238, 30, 203);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 20px black;
+}
+
+
+.freezeritems {
+    background-color: darkblue;
+    color: white;
+    border: solid 5px rgb(38, 0, 255);
+    border-radius: 10px;
+    width: 300px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    margin-left: 50px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 20px black;
+}
+
+
+.veggies {
+    display: inline-block;
+    /* background-color: blanchedalmond; */
+    background: rgba(255, 235, 205, .8);
+    padding: 40px;
+    border-radius: 10px;
+    border: solid 2px rgb(88, 88, 8);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    color: rgb(238, 30, 203);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 5px black;
+
+}
+
+
+.snacks {
+    display: inline-block;
+    /* background-color: blanchedalmond; */
+    background: rgba(255, 235, 205, .8);
+    margin-left: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    border: solid 2px rgb(88, 88, 8);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    color: rgb(238, 30, 203);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 20px black;
+}
+
+
+.li-text {
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px 10px black;
+}
+
+
+.li-text:hover {
+    color: rgb(120, 120, 180);
+}
+
+
+a {
+    cursor: pointer;
+
+}
+
+
+/* .li-text :hover{
+color: black;
+} */
+    
+
+
+
